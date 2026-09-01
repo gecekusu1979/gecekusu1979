@@ -78,7 +78,7 @@ I work across low-level hardware interfaces, real-time data tracing architecture
 <!-- SAG TARAFTAKI ABONDEATH OYUN PROJESI -->
 <td width="45%" valign="top">
 <h4>💀 Abondeath</h4>
-<p>An immersive gaming experience developed entirely from scratch. Complex physics, character controls, and engaging mechanics utilizing the power of modern 3D rendering engines.</p>
+<p>An immersive gaming experience developed entirely from scratch. Complex physics, character controls, and engaging mechanics utilizing the power of modern 2D rendering engines.</p>
 
 <sub><b>Built with:</b></sub><br>
 <code>Unity</code> <code>C#</code> <code>3D Engine</code>
@@ -87,7 +87,7 @@ I work across low-level hardware interfaces, real-time data tracing architecture
 <b>Features:</b>
 <ul>
 <li>Custom character controller and physics scripts.</li>
-<li>Optimized 3D rendering and dynamic lighting.</li>
+<li>Optimized 2D rendering and dynamic lighting.</li>
 <li>Advanced game loop and state mechanics.</li>
 </ul>
 
