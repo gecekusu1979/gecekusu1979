@@ -106,9 +106,13 @@ I work across low-level hardware interfaces, real-time data tracing architecture
 
 ### 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gecekusu1979&show_icons=true&bg_color=0d1117&text_color=ffffff&icon_color=2196F3&hide_border=true&title_color=2196F3" alt="Ayhan's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gecekusu1979&layout=compact&bg_color=0d1117&text_color=ffffff&hide_border=true&title_color=2196F3" alt="Top Langs" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gecekusu1979&theme=tokyonight" alt="Ayhan's Stats" width="60%" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gecekusu1979&theme=tokyonight&utcOffset=3" alt="Commits" width="60%" />
+</p>
+
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gecekusu1979&label=Profile%20Views&color=00B4DB&style=flat-square" alt="Ayhan's Profile Views" />
