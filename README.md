@@ -1,48 +1,84 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineer;Automotive+Telemetry;ECU+Tuning;C%23+%2F+.NET+Developer" alt="Typing SVG" />
-  
-  <br><br>
-  
-  Welcome to my digital garage! I build high-performance data-driven tools, reverse-engineer automotive protocols, and craft tuning software. 🏎️💻
-
-  <br>
-
-  <!-- Profil Ziyaretçi Sayacı (Arkadaşınızınki ile Aynı Özellik) -->
-  <img src="https://komarev.com/ghpvc/?username=gecekusu1979&label=Profile%20Views&color=007ec6&style=flat-square" alt="Ziyaretçi Sayısı" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:00B4DB&height=220&section=header&text=AYHAN&fontSize=90&desc=Software%20Developer%20%7C%20Automotive%20Tuning&descAlignY=72&fontColor=ffffff&descAlign=62" width="100%" />
 </div>
 
-<br>
+## 📌 About Me
+**Software Developer focused on building high-performance automotive tuning tools and desktop applications.**  
+I work across low-level hardware interfaces, telemetry databases, and real-time data tracing architectures using C# and .NET. My main focus is building software that bridges the gap between mechanical engineering and pure coding.
 
-<div align="center">
-  <h3>🛠️ Core Tech Stack</h3>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="WinForms" />
-  <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</div>
+<br/>
 
-<br>
+## 🛠️ Tech Stack
 
-<div align="center">
-  <h3>🌐 Tools & Protocols</h3>
-  <img src="https://img.shields.io/badge/OBD2_Protocol-000000?style=for-the-badge&logo=hackaday&logoColor=white" alt="OBD2" />
-  <img src="https://img.shields.io/badge/Serial_COM-FF7139?style=for-the-badge&logo=rs-components&logoColor=white" alt="Serial Comm" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-</div>
-
----
-
-### 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gecekusu1979&show_icons=true&bg_color=0d1117&text_color=ffffff&icon_color=2196F3&hide_border=true&title_color=2196F3" alt="Ayhan's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gecekusu1979&layout=compact&bg_color=0d1117&text_color=ffffff&hide_border=true&title_color=2196F3" alt="Top Langs" width="48%" />
+  <b>Languages & Frameworks</b><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,git,github,visualstudio,sqlite" alt="Tech Stack" />
+  </a>
 </p>
 
-### 🏁 Featured Work
+<p align="center">
+  <b>Tools & Hardware Protocols</b><br>
+  <img src="https://img.shields.io/badge/OBD1%20/%20OBD2-000000?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Serial_COM-FF7139?style=for-the-badge&logo=rs-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/CH341A_Dev-2088FF?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+<br/>
+
+## 🎯 Areas I Work In
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <b>🏎️ Automotive Telemetry</b><br>
+      <sub>OBD2 communication, real-time sensor tracing, and fuel mapping.</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>🖥️ Desktop Engineering</b><br>
+      <sub>.NET 8, WinForms GDI+ rendering, and low-level RS232 interfacing.</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>🔧 Reverse Engineering</b><br>
+      <sub>ROM hex modification, Checksum bypass logic, direct EEPROM burning.</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🏆 Selected Work
+
+<table align="center" width="100%">
+<tr>
+<td width="100%" valign="top">
+<h4>🏎️ HondaTuner V2</h4>
+<p>An open-source, bilingual (EN/TR) .NET 8 telemetry and ECU tuning suite for Honda vehicles. Built as a completely free, modern alternative to legacy platforms like Crome and Hondata.</p>
+
+<sub><b>Built with:</b></sub><br>
+<code>C#</code> <code>.NET 8</code> <code>WinForms</code> <code>SQLite</code>
+<br/><br/>
+
+<b>Features:</b>
+<ul>
+<li>Direct physical hardware OBD <code>0x43/0x44</code> serial packet injection for reading and clearing DTCs.</li>
+<li>Real-time graphical telemetry, data-logging, and live interpolation algorithms.</li>
+<li>Native hardware hooks for CH341A / TL866 EPROM reading and saving.</li>
+<li>On-the-fly dynamic language translation engine (Zero-restart UI refreshing).</li>
+</ul>
+
+<a href="https://github.com/gecekusu1979/honda">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gecekusu1979&repo=honda&bg_color=0d1117&text_color=ffffff&icon_color=2196F3&hide_border=true&title_color=2196F3" alt="HondaTuner Repository Pin" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
-  <a href="https://github.com/gecekusu1979/honda">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gecekusu1979&repo=honda&bg_color=0d1117&text_color=ffffff&icon_color=2196F3&title_color=2196F3&hide_border=true" alt="HondaTuner" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=gecekusu1979&label=Profile%20Views&color=00B4DB&style=flat-square" alt="Ayhan's Profile Views" />
 </div>
