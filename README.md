@@ -7,7 +7,11 @@
 I work across low-level hardware interfaces, real-time data tracing architectures, and immersive 3D simulations. My main focus is building software that bridges the gap between mechanical engineering, pure coding, and digital realms using C#, .NET, Unity, and Unreal Engine.
 
 <br/>
-
+<p align="center">
+  <a href="https://www.instagram.com/huseyyin.ayhann/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 ## 🛠️ Tech Stack & Engines
 
 <p align="center">
