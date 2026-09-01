@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:00B4DB&height=220&section=header&text=AYHAN&fontSize=90&desc=Software%20Developer%20%7C%20Automotive%20%7C%20Game%20Dev&descAlignY=72&fontColor=ffffff&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:2b2b2b&height=250&section=header&text=HÜSEYİN%20AYHAN&fontSize=80&desc=Software%20Developer%20%7C%20Automotive%20%7C%20Game%20Dev&descAlignY=70&fontColor=ffffff&descAlign=62&animation=twinkling" width="100%" />
 </div>
 
 ## 📌 About Me
