@@ -3,9 +3,8 @@
 </div>
 
 ## 📌 About Me
-**Multi-disciplinary Developer focused on Automotive Telemetry, Desktop Tools and Game Development.**  
-I work across low-level hardware interfaces, real-time data tracing architectures, and immersive 3D simulations. My main focus is building software that bridges the gap between mechanical engineering, pure coding, and digital realms using C#, .NET, Unity, and Unreal Engine.
-
+**Data-Driven Software Engineer focused on Automotive Telemetry, Desktop Tools, and Game Development.**  
+I work across low-level hardware interfaces, real-time data tracing architectures, and immersive 2D/3D simulations. Having participated in Datathons, I heavily utilize data analytics methodologies to bridge the gap between mechanical engineering, pure coding, and digital realms using C#, .NET, and Unity.
 <br/>
 <p align="center">
   <a href="https://www.instagram.com/huseyyin.ayhann/">
@@ -27,7 +26,11 @@ I work across low-level hardware interfaces, real-time data tracing architecture
   <img src="https://img.shields.io/badge/CH341A_Dev-2088FF?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Serial_COM-FF7139?style=for-the-badge&logo=rs-components&logoColor=white" />
 </p>
-
+<p align="center">
+  <b>Data & Analytics</b><br>
+  <img src="https://img.shields.io/badge/Data_Science-150458?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datathon_Participant-FF6A00?style=for-the-badge&logo=google-analytics&logoColor=white" />
+</p>
 <br/>
 
 ## 🎯 Areas I Work In
