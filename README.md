@@ -117,3 +117,11 @@ I work across low-level hardware interfaces, real-time data tracing architecture
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gecekusu1979&label=Profile%20Views&color=00B4DB&style=flat-square" alt="Ayhan's Profile Views" />
 </div>
+<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gecekusu1979/gecekusu1979/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gecekusu1979/gecekusu1979/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/gecekusu1979/gecekusu1979/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
