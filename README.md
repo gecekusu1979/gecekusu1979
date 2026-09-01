@@ -74,30 +74,27 @@ I work across low-level hardware interfaces, real-time data tracing architecture
   <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </td>
-
+  
 <!-- SAG TARAFTAKI ABONDEATH OYUN PROJESI -->
 <td width="45%" valign="top">
 <h4>💀 Abondeath</h4>
-<p>An immersive gaming experience developed entirely from scratch. Complex physics, character controls, and engaging mechanics utilizing the power of modern 2D rendering engines.</p>
-
+<p>An intense, action-packed 2D horde-survival game inspired by the mechanics of Vampire Survivors. Engineered to handle massive entity counts without performance drops.</p>
 <sub><b>Built with:</b></sub><br>
-<code>Unity</code> <code>C#</code> <code>3D Engine</code>
+<code>Unity</code> <code>C#</code> <code>2D Physics</code>
 <br/><br/>
-
 <b>Features:</b>
 <ul>
-<li>Custom character controller and physics scripts.</li>
-<li>Optimized 2D rendering and dynamic lighting.</li>
-<li>Advanced game loop and state mechanics.</li>
+<li>Highly optimized 2D object pooling for massive enemy hordes.</li>
+<li>Custom weapon mechanics, skill trees, and wave progression.</li>
+<li>Engaging gameplay loops with responsive combat scripts.</li>
 </ul>
-
 <!-- (Eğer oyun GitHub'daysa buradaki yorum satırlarını kaldırıp Link Verebilirsiniz)
 <a href="#">
   <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 -->
 </td>
-</tr>
+  </tr>
 </table>
 
 <br/>
