@@ -5,7 +5,9 @@
 ## 📌 About Me
 **Data-Driven Software Engineer focused on DevSecOps Tools, Automotive Telemetry, and Game Development.**  
 I work across low-level hardware interfaces, real-time data tracing architectures, developer security tooling, and immersive 2D/3D simulations. Having participated in Datathons, I heavily utilize data analytics and strict systems programming methodologies to bridge the gap between mechanical engineering, pure coding, and secure digital realms using TypeScript, C#, .NET, Python, and Unity.
+
 <br/>
+
 <p align="center">
   <a href="https://www.instagram.com/huseyyin.ayhann/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -40,6 +42,7 @@ I work across low-level hardware interfaces, real-time data tracing architecture
   <img src="https://img.shields.io/badge/Data_Science-150458?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Datathon_Participant-FF6A00?style=for-the-badge&logo=google-analytics&logoColor=white" />
 </p>
+
 <br/>
 
 ## 🎯 Areas I Work In
