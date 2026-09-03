@@ -49,51 +49,62 @@ Having participated in Datathons, I leverage data analytics alongside secure sof
 
 ---
 
-## Selected Projects
+## Selected Work
 
-### 🛡️ GitLeak Radar `v1.0.0`
-
-> Zero-telemetry CLI secret scanner and pre-commit hook for Git repositories.
-
-Audits staged changes or full repositories locally to intercept hardcoded API keys, tokens, and database credentials before they reach version control.
-
-**Stack:** `TypeScript` `Node.js` `Commander` `Zod` `Vitest`
-
-- **Leak-safe model** — Excludes raw secrets from data models; only masked fingerprints appear in reports
-- **Git-index aware** — Native `--staged` auditing with nested directory resolution and idempotent hook setup
-- **Pipeline hardened** — POSIX exit codes `0/1/2` and 10MB memory-safe circuit breaker
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gecekusu1979/gitleak-radar)
-
----
-
-### 🏎️ HondaTuner V2
-
-> Open-source, bilingual EN/TR ECU tuning and telemetry suite for Honda vehicles.
-
-A free, modern alternative to legacy graphical ECU platforms, built on .NET 8.
-
-**Stack:** `C#` `.NET 8` `WinForms` `SQLite`
-
-- Direct physical OBD `0x43/0x44` serial packet injection
-- Real-time graphical telemetry with live data logging and interpolation
-- Native CH341A / TL866 EPROM read/write support
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gecekusu1979/honda)
-
----
-
-### 💀 Abondeath
-
-> 2D horde-survival game inspired by Vampire Survivors mechanics.
-
-Engineered for massive entity counts with no performance compromise.
-
-**Stack:** `Unity` `C#` `2D Physics`
-
-- Highly optimized object pooling for large-scale enemy hordes
-- Custom weapon mechanics, skill trees, and wave-based progression
-- Responsive combat loop with scalable gameplay architecture
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ GitLeak Radar <code>v1.0.0</code></h4>
+      <b>CLI Secret Scanner & Pre-commit Hook</b>
+      <p>Zero-telemetry local scanner that intercepts hardcoded API keys, tokens, and database credentials before they reach version control.</p>
+      <b>Built with</b><br/>
+      <code>TypeScript</code> <code>Node.js</code> <code>Commander</code> <code>Zod</code> <code>Vitest</code>
+      <br/><br/>
+      <b>Features</b>
+      <ul>
+        <li>Leak-safe model — only masked fingerprints exposed in reports</li>
+        <li>Native <code>--staged</code> auditing with idempotent hook setup</li>
+        <li>POSIX exit codes <code>0/1/2</code> and 10MB memory-safe circuit breaker</li>
+      </ul>
+      <a href="https://github.com/gecekusu1979/gitleak-radar">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏎️ HondaTuner V2</h4>
+      <b>ECU Tuning & Telemetry Suite</b>
+      <p>Open-source, bilingual EN/TR .NET 8 platform for Honda ECU tuning. A free, modern alternative to legacy graphical tools.</p>
+      <b>Built with</b><br/>
+      <code>C#</code> <code>.NET 8</code> <code>WinForms</code> <code>SQLite</code>
+      <br/><br/>
+      <b>Features</b>
+      <ul>
+        <li>Direct OBD <code>0x43/0x44</code> serial packet injection</li>
+        <li>Real-time graphical telemetry with live data logging and interpolation</li>
+        <li>Native CH341A / TL866 EPROM read/write support</li>
+      </ul>
+      <a href="https://github.com/gecekusu1979/honda">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>💀 Abondeath</h4>
+      <b>2D Horde-Survival Game</b>
+      <p>Vampire Survivors-inspired horde game engineered for massive entity counts without performance compromise.</p>
+      <b>Built with</b><br/>
+      <code>Unity</code> <code>C#</code> <code>2D Physics</code>
+      <br/><br/>
+      <b>Features</b>
+      <ul>
+        <li>Highly optimized object pooling for large-scale enemy hordes</li>
+        <li>Custom weapon mechanics, skill trees, and wave-based progression</li>
+        <li>Scalable combat architecture with responsive gameplay loop</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
