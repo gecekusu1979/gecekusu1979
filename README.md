@@ -1,159 +1,128 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:2b2b2b&height=250&section=header&text=HÜSEYİN%20AYHAN&fontSize=80&desc=Software%20Developer%20%7C%20DevSecOps%20%7C%20Automotive%20%7C%20Game%20Dev&descAlignY=70&fontColor=ffffff&descAlign=62&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=Hüseyin%20Ayhan&fontSize=72&fontColor=ffffff&desc=Software%20Developer%20·%20DevSecOps%20·%20Automotive%20·%20Game%20Dev&descFontSize=16&descAlignY=78&animation=fadeIn" width="100%" />
 </div>
 
-## 📌 About Me
-**Data-Driven Software Engineer focused on DevSecOps Tools, Automotive Telemetry, and Game Development.**  
-I work across low-level hardware interfaces, real-time data tracing architectures, developer security tooling, and immersive 2D/3D simulations. Having participated in Datathons, I heavily utilize data analytics and strict systems programming methodologies to bridge the gap between mechanical engineering, pure coding, and secure digital realms using TypeScript, C#, .NET, Python, and Unity.
-
 <br/>
+
+## About
+
+Data-driven software engineer working across **DevSecOps tooling**, **automotive telemetry**, and **game development**. I bridge low-level hardware interfaces with real-time data architectures and immersive simulations, applying strict systems programming methodologies and applied machine learning where relevant.
+
+Having participated in Datathons, I leverage data analytics alongside secure software design to connect mechanical engineering, systems programming, and interactive media.
+
+**Primary Languages:** TypeScript · C# · .NET · Python  
+**Engines:** Unity · Unreal Engine  
+**Domains:** DevSecOps · OBD1/OBD2 Telemetry · Desktop Tools · 2D/3D Simulation
 
 <p align="center">
   <a href="https://www.instagram.com/huseyyin.ayhann/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-## 🛠️ Tech Stack & Engines
-
-<p align="center">
-  <b>Languages & Engines</b><br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,cs,dotnet,py,git,github,visualstudio,sqlite,unity,unreal" alt="Tech Stack" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Security & CLI Tooling</b><br>
-  <img src="https://img.shields.io/badge/DevSecOps-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Secret_Scanning-E0234E?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/CLI_Tooling-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Tools & Hardware Protocols</b><br>
-  <img src="https://img.shields.io/badge/OBD1%20/%20OBD2-000000?style=for-the-badge&logo=hackaday&logoColor=white" />
-  <img src="https://img.shields.io/badge/CH341A_Dev-2088FF?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Serial_COM-FF7139?style=for-the-badge&logo=rs-components&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Data & Analytics</b><br>
-  <img src="https://img.shields.io/badge/Data_Science-150458?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Datathon_Participant-FF6A00?style=for-the-badge&logo=google-analytics&logoColor=white" />
-</p>
-
-<br/>
-
-## 🎯 Areas I Work In
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <b>🛡️ DevSecOps & CLI</b><br>
-      <sub>Static analysis, Git hooks, leak-proof credential auditing.</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>🏎️ Auto Telemetry</b><br>
-      <sub>OBD2 communication and real-time mapping.</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>🖥️ Desktop Tools</b><br>
-      <sub>.NET 8, WinForms GDI+ rendering.</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>🕹️ Game Development</b><br>
-      <sub>Unity, Unreal Engine, Physics, and 3D Mechanics.</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 🏆 Selected Work
-
-<!-- GITLEAK RADAR VITRIN KARTI -->
-<table align="center" width="100%">
-  <tr>
-    <td>
-      <h4>🛡️ GitLeak Radar (v1.0.0)</h4>
-      <p>A production-ready, zero-telemetry CLI secret scanner and pre-commit hook written in TypeScript. Audits staged Git changes or full repositories locally to block hardcoded API keys, tokens, and database credentials before commits hit version control.</p>
-      <sub><b>Built with:</b></sub><br>
-      <code>TypeScript</code> <code>Node.js</code> <code>Commander</code> <code>Zod</code> <code>Vitest</code>
-      <br/><br/>
-      <b>Highlights:</b>
-      <ul>
-        <li><b>Leak-Safe Finding Model:</b> Excludes raw secrets from data models; only masked fingerprints are exposed in reports.</li>
-        <li><b>Git Index Aware:</b> Native <code>--staged</code> auditing with nested directory resolution and idempotent pre-commit hook setup.</li>
-        <li><b>Pipeline Hardened:</b> Standard POSIX exit codes (0/1/2) and 10MB memory-safe circuit breaker.</li>
-      </ul>
-      <a href="https://github.com/gecekusu1979/gitleak-radar">
-        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table align="center" width="100%">
-  <tr>
-    <!-- SOL TARAFTAKI HONDA TUNER PROJESI -->
-    <td width="50%" valign="top">
-      <h4>🏎️ HondaTuner V2</h4>
-      <p>An open-source, bilingual (EN/TR) .NET 8 telemetry and ECU tuning suite for Honda vehicles. Built as a completely free, modern alternative to legacy graphical platforms.</p>
-      <sub><b>Built with:</b></sub><br>
-      <code>C#</code> <code>.NET 8</code> <code>WinForms</code> <code>SQLite</code>
-      <br/><br/>
-      <b>Features:</b>
-      <ul>
-        <li>Direct physical hardware OBD <code>0x43/0x44</code> serial packet injection.</li>
-        <li>Real-time graphical telemetry, data-logging, and live interpolation.</li>
-        <li>Native hardware hooks for CH341A / TL866 EPROM reading and saving.</li>
-      </ul>
-      <a href="https://github.com/gecekusu1979/honda">
-        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    
-    <!-- SAG TARAFTAKI ABONDEATH OYUN PROJESI -->
-    <td width="50%" valign="top">
-      <h4>💀 Abondeath</h4>
-      <p>An intense, action-packed 2D horde-survival game inspired by the mechanics of Vampire Survivors. Engineered to handle massive entity counts without performance drops.</p>
-      <sub><b>Built with:</b></sub><br>
-      <code>Unity</code> <code>C#</code> <code>2D Physics</code>
-      <br/><br/>
-      <b>Features:</b>
-      <ul>
-        <li>Highly optimized 2D object pooling for massive enemy hordes.</li>
-        <li>Custom weapon mechanics, skill trees, and wave progression.</li>
-        <li>Engaging gameplay loops with responsive combat scripts.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 ---
 
-### 📊 GitHub Overview
+## Tech Stack
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gecekusu1979&theme=tokyonight" alt="Ayhan's Stats" width="60%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gecekusu1979&theme=tokyonight&utcOffset=3" alt="Commits" width="60%" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,cs,dotnet,py,git,github,visualstudio,sqlite,unity,unreal" />
+  </a>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/DevSecOps-000000?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Secret_Scanning-E0234E?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/OBD1%20/%20OBD2-000000?style=flat-square&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/CH341A_Dev-2088FF?style=flat-square&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Science-150458?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datathon_Participant-FF6A00?style=flat-square&logo=google-analytics&logoColor=white" />
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gecekusu1979&label=Profile%20Views&color=00B4DB&style=flat-square" alt="Ayhan's Profile Views" />
-</div>
-<br>
+---
+
+## Areas
+
+| 🛡️ DevSecOps & CLI | 🏎️ Auto Telemetry | 🖥️ Desktop Tools | 🕹️ Game Development |
+|:---:|:---:|:---:|:---:|
+| Static analysis, Git hooks, credential auditing | OBD2 communication, real-time ECU data mapping | .NET 8, WinForms, GDI+ rendering | Unity, Unreal Engine, physics & 3D systems |
+
+---
+
+## Selected Projects
+
+### 🛡️ GitLeak Radar `v1.0.0`
+
+> Zero-telemetry CLI secret scanner and pre-commit hook for Git repositories.
+
+Audits staged changes or full repositories locally to intercept hardcoded API keys, tokens, and database credentials before they reach version control.
+
+**Stack:** `TypeScript` `Node.js` `Commander` `Zod` `Vitest`
+
+- **Leak-safe model** — Excludes raw secrets from data models; only masked fingerprints appear in reports
+- **Git-index aware** — Native `--staged` auditing with nested directory resolution and idempotent hook setup
+- **Pipeline hardened** — POSIX exit codes `0/1/2` and 10MB memory-safe circuit breaker
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gecekusu1979/gitleak-radar)
+
+---
+
+### 🏎️ HondaTuner V2
+
+> Open-source, bilingual EN/TR ECU tuning and telemetry suite for Honda vehicles.
+
+A free, modern alternative to legacy graphical ECU platforms, built on .NET 8.
+
+**Stack:** `C#` `.NET 8` `WinForms` `SQLite`
+
+- Direct physical OBD `0x43/0x44` serial packet injection
+- Real-time graphical telemetry with live data logging and interpolation
+- Native CH341A / TL866 EPROM read/write support
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gecekusu1979/honda)
+
+---
+
+### 💀 Abondeath
+
+> 2D horde-survival game inspired by Vampire Survivors mechanics.
+
+Engineered for massive entity counts with no performance compromise.
+
+**Stack:** `Unity` `C#` `2D Physics`
+
+- Highly optimized object pooling for large-scale enemy hordes
+- Custom weapon mechanics, skill trees, and wave-based progression
+- Responsive combat loop with scalable gameplay architecture
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gecekusu1979&theme=tokyonight" width="65%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gecekusu1979&theme=tokyonight&utcOffset=3" width="65%" />
+</p>
+
+<br/>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gecekusu1979/gecekusu1979/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gecekusu1979/gecekusu1979/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/gecekusu1979/gecekusu1979/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gecekusu1979/gecekusu1979/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gecekusu1979&label=Profile%20Views&color=1a1a2e&style=flat-square" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=100&section=footer" width="100%" />
 </div>
