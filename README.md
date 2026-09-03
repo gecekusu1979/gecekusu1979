@@ -3,8 +3,8 @@
 </div>
 
 ## 📌 About Me
-**Software Engineer focused on DevSecOps Tools, Automotive Telemetry, and Game Development.**  
-I build high-performance developer tooling, low-level hardware interfaces, and immersive game mechanics. From engineering local-first Git secret scanners and automotive ECU tuning suites to designing 2D/3D simulations, I bridge systems programming, security engineering, and interactive software using TypeScript, C#, .NET, and Unity.
+**Data-Driven Software Engineer focused on DevSecOps Tools, Automotive Telemetry, and Game Development.**  
+I work across low-level hardware interfaces, real-time data tracing architectures, developer security tooling, and immersive 2D/3D simulations. Having participated in Datathons, I heavily utilize data analytics and strict systems programming methodologies to bridge the gap between mechanical engineering, pure coding, and secure digital realms using TypeScript, C#, .NET, Python, and Unity.
 <br/>
 <p align="center">
   <a href="https://www.instagram.com/huseyyin.ayhann/">
@@ -15,24 +15,30 @@ I build high-performance developer tooling, low-level hardware interfaces, and i
 ## 🛠️ Tech Stack & Engines
 
 <p align="center">
-  <b>Languages & Runtimes</b><br/><br/>
+  <b>Languages & Engines</b><br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,cs,dotnet,py,git,github,sqlite,unity" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,cs,dotnet,py,git,github,visualstudio,sqlite,unity,unreal" alt="Tech Stack" />
   </a>
 </p>
 
 <p align="center">
-  <b>Security & Tooling</b><br>
+  <b>Security & CLI Tooling</b><br>
   <img src="https://img.shields.io/badge/DevSecOps-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Secret_Scanning-E0234E?style=for-the-badge&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/CLI_Tooling-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 <p align="center">
-  <b>Hardware & Automotive Protocols</b><br>
+  <b>Tools & Hardware Protocols</b><br>
   <img src="https://img.shields.io/badge/OBD1%20/%20OBD2-000000?style=for-the-badge&logo=hackaday&logoColor=white" />
   <img src="https://img.shields.io/badge/CH341A_Dev-2088FF?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Serial_COM-FF7139?style=for-the-badge&logo=rs-components&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Data & Analytics</b><br>
+  <img src="https://img.shields.io/badge/Data_Science-150458?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datathon_Participant-FF6A00?style=for-the-badge&logo=google-analytics&logoColor=white" />
 </p>
 <br/>
 
@@ -45,15 +51,15 @@ I build high-performance developer tooling, low-level hardware interfaces, and i
     </td>
     <td align="center" width="25%">
       <b>🏎️ Auto Telemetry</b><br>
-      <sub>OBD2 communication, serial injection, and live mapping.</sub>
+      <sub>OBD2 communication and real-time mapping.</sub>
     </td>
     <td align="center" width="25%">
       <b>🖥️ Desktop Tools</b><br>
-      <sub>.NET 8, WinForms GDI+ rendering, EEPROM burner hooks.</sub>
+      <sub>.NET 8, WinForms GDI+ rendering.</sub>
     </td>
     <td align="center" width="25%">
       <b>🕹️ Game Development</b><br>
-      <sub>Unity, C#, 2D physics, and high-density entity pooling.</sub>
+      <sub>Unity, Unreal Engine, Physics, and 3D Mechanics.</sub>
     </td>
   </tr>
 </table>
@@ -67,15 +73,15 @@ I build high-performance developer tooling, low-level hardware interfaces, and i
   <tr>
     <td>
       <h4>🛡️ GitLeak Radar (v1.0.0)</h4>
-      <p>A production-ready, zero-telemetry CLI secret scanner and pre-commit hook written in strict TypeScript. Audits staged Git changes or full repositories locally to block hardcoded API keys, tokens, and database credentials before commits hit version control.</p>
+      <p>A production-ready, zero-telemetry CLI secret scanner and pre-commit hook written in TypeScript. Audits staged Git changes or full repositories locally to block hardcoded API keys, tokens, and database credentials before commits hit version control.</p>
       <sub><b>Built with:</b></sub><br>
       <code>TypeScript</code> <code>Node.js</code> <code>Commander</code> <code>Zod</code> <code>Vitest</code>
       <br/><br/>
       <b>Highlights:</b>
       <ul>
-        <li><b>Leak-Safe Findings:</b> Strict masking policy ensures plaintext secrets never enter data models or console/JSON reports.</li>
-        <li><b>Git Index Aware:</b> Native <code>--staged</code> auditing with nested directory resolution and automated pre-commit hook installation.</li>
-        <li><b>Pipeline Hardened:</b> Deterministic POSIX exit codes (0/1/2) and 10MB memory-safe circuit breaker.</li>
+        <li><b>Leak-Safe Finding Model:</b> Excludes raw secrets from data models; only masked fingerprints are exposed in reports.</li>
+        <li><b>Git Index Aware:</b> Native <code>--staged</code> auditing with nested directory resolution and idempotent pre-commit hook setup.</li>
+        <li><b>Pipeline Hardened:</b> Standard POSIX exit codes (0/1/2) and 10MB memory-safe circuit breaker.</li>
       </ul>
       <a href="https://github.com/gecekusu1979/gitleak-radar">
         <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -86,13 +92,12 @@ I build high-performance developer tooling, low-level hardware interfaces, and i
 
 <br/>
 
-<!-- DIGER PROJELER -->
 <table align="center" width="100%">
   <tr>
     <!-- SOL TARAFTAKI HONDA TUNER PROJESI -->
     <td width="50%" valign="top">
       <h4>🏎️ HondaTuner V2</h4>
-      <p>An open-source, bilingual (EN/TR) .NET 8 telemetry and ECU tuning suite for Honda vehicles. Built as a completely free alternative to legacy graphical platforms.</p>
+      <p>An open-source, bilingual (EN/TR) .NET 8 telemetry and ECU tuning suite for Honda vehicles. Built as a completely free, modern alternative to legacy graphical platforms.</p>
       <sub><b>Built with:</b></sub><br>
       <code>C#</code> <code>.NET 8</code> <code>WinForms</code> <code>SQLite</code>
       <br/><br/>
@@ -110,15 +115,15 @@ I build high-performance developer tooling, low-level hardware interfaces, and i
     <!-- SAG TARAFTAKI ABONDEATH OYUN PROJESI -->
     <td width="50%" valign="top">
       <h4>💀 Abondeath</h4>
-      <p>An action-packed 2D horde-survival game engineered in Unity. Features custom physics and scripts designed to handle massive entity counts without performance degradation.</p>
+      <p>An intense, action-packed 2D horde-survival game inspired by the mechanics of Vampire Survivors. Engineered to handle massive entity counts without performance drops.</p>
       <sub><b>Built with:</b></sub><br>
       <code>Unity</code> <code>C#</code> <code>2D Physics</code>
       <br/><br/>
       <b>Features:</b>
       <ul>
-        <li>Optimized 2D object pooling for dense enemy waves.</li>
+        <li>Highly optimized 2D object pooling for massive enemy hordes.</li>
         <li>Custom weapon mechanics, skill trees, and wave progression.</li>
-        <li>Modular combat state machines and responsive input handling.</li>
+        <li>Engaging gameplay loops with responsive combat scripts.</li>
       </ul>
     </td>
   </tr>
