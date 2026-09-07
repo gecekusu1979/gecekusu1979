@@ -69,6 +69,9 @@ Having participated in Datathons, I leverage data analytics alongside secure sof
       <a href="https://github.com/gecekusu1979/gitleak-radar">
         <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&amp;logo=github&amp;logoColor=white" />
       </a>
+      <a href="https://github.com/marketplace/actions/gitleak-radar">
+        <img src="https://img.shields.io/badge/VIEW_MARKETPLACE-6f42c1?style=flat-square&amp;logo=github&amp;logoColor=white" />
+      </a>
     </td>
     <td width="50%" valign="top">
       <h4>🏎️ HondaTuner V2</h4>
