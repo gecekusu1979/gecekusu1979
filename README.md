@@ -57,14 +57,19 @@ Having participated in Datathons, I leverage data analytics alongside secure sof
       <h4>🛡️ GitLeak Radar <code>v1.4.7</code></h4>
       <b>CLI Secret Scanner &amp; GitHub Action</b>
       <p>Zero-telemetry local-first scanner that detects hardcoded API keys, tokens, private keys, and database credentials before they reach version control or CI/CD pipelines.</p>
-      <b>Marketplace</b><br/>
-      <code>gecekusu1979/gitleak-radar@v1.4.7</code>
+      <b>Built with</b><br/>
+      <code>TypeScript</code> <code>Node.js</code> <code>Commander</code> <code>Zod</code>
       <br/><br/>
+      <b>Features</b>
+      <ul>
+        <li>Leak-safe masked findings and SARIF reporting</li>
+        <li>GitHub Action and pre-commit workflows</li>
+        <li>ReDoS-safe custom regex evaluation</li>
+      </ul>
       <a href="https://github.com/gecekusu1979/gitleak-radar">
         <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&amp;logo=github&amp;logoColor=white" />
       </a>
     </td>
-
     <td width="50%" valign="top">
       <h4>🏎️ HondaTuner V2</h4>
       <b>ECU Tuning &amp; Telemetry Suite</b>
@@ -83,7 +88,6 @@ Having participated in Datathons, I leverage data analytics alongside secure sof
       </a>
     </td>
   </tr>
-
   <tr>
     <td colspan="2" valign="top">
       <h4>💀 Abondeath</h4>
@@ -101,9 +105,6 @@ Having participated in Datathons, I leverage data analytics alongside secure sof
     </td>
   </tr>
 </table>
-
----
-
 ## GitHub Activity
 
 <p align="center">
