@@ -54,21 +54,16 @@ Having participated in Datathons, I leverage data analytics alongside secure sof
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ GitLeak Radar <code>v1.4.7</code></h4>
-      <b>CLI Secret Scanner & Pre-commit Hook</b>
-      <p>Zero-telemetry local scanner that intercepts hardcoded API keys, tokens, and database credentials before they reach version control.</p>
-      <b>Built with</b><br/>
-      <code>TypeScript</code> <code>Node.js</code> <code>Commander</code> <code>Zod</code> <code>Vitest</code>
-      <br/><br/>
-      <b>Features</b>
-      <ul>
-        <li>Leak-safe model — only masked fingerprints exposed in reports</li>
-        <li>Native <code>--staged</code> auditing with idempotent hook setup</li>
-        <li>POSIX exit codes <code>0/1/2</code> and 10MB memory-safe circuit breaker</li>
-      </ul>
-      <a href="https://github.com/gecekusu1979/gitleak-radar">
-        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" />
-      </a>
+    <h4>🛡️ GitLeak Radar <code>v1.4.7</code></h4>
+<b>CLI Secret Scanner & GitHub Action</b>
+<p>Zero-telemetry local-first scanner that detects hardcoded API keys, tokens, private keys, and database credentials before they reach version control or CI/CD pipelines.</p>
+<b>Marketplace</b><br/>
+<code>gecekusu1979/gitleak-radar@v1.4.7</code>
+<br/><br/>
+<a href="https://github.com/gecekusu1979/gitleak-radar">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
     </td>
     <td width="50%" valign="top">
       <h4>🏎️ HondaTuner V2</h4>
