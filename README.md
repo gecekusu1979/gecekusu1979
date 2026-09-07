@@ -54,20 +54,20 @@ Having participated in Datathons, I leverage data analytics alongside secure sof
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-    <h4>🛡️ GitLeak Radar <code>v1.4.7</code></h4>
-<b>CLI Secret Scanner & GitHub Action</b>
-<p>Zero-telemetry local-first scanner that detects hardcoded API keys, tokens, private keys, and database credentials before they reach version control or CI/CD pipelines.</p>
-<b>Marketplace</b><br/>
-<code>gecekusu1979/gitleak-radar@v1.4.7</code>
-<br/><br/>
-<a href="https://github.com/gecekusu1979/gitleak-radar">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
+      <h4>🛡️ GitLeak Radar <code>v1.4.7</code></h4>
+      <b>CLI Secret Scanner &amp; GitHub Action</b>
+      <p>Zero-telemetry local-first scanner that detects hardcoded API keys, tokens, private keys, and database credentials before they reach version control or CI/CD pipelines.</p>
+      <b>Marketplace</b><br/>
+      <code>gecekusu1979/gitleak-radar@v1.4.7</code>
+      <br/><br/>
+      <a href="https://github.com/gecekusu1979/gitleak-radar">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&amp;logo=github&amp;logoColor=white" />
+      </a>
     </td>
+
     <td width="50%" valign="top">
       <h4>🏎️ HondaTuner V2</h4>
-      <b>ECU Tuning & Telemetry Suite</b>
+      <b>ECU Tuning &amp; Telemetry Suite</b>
       <p>Open-source, bilingual EN/TR .NET 8 platform for Honda ECU tuning. A free, modern alternative to legacy graphical tools.</p>
       <b>Built with</b><br/>
       <code>C#</code> <code>.NET 8</code> <code>WinForms</code> <code>SQLite</code>
@@ -79,10 +79,11 @@ Having participated in Datathons, I leverage data analytics alongside secure sof
         <li>Native CH341A / TL866 EPROM read/write support</li>
       </ul>
       <a href="https://github.com/gecekusu1979/honda">
-        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&amp;logo=github&amp;logoColor=white" />
       </a>
     </td>
   </tr>
+
   <tr>
     <td colspan="2" valign="top">
       <h4>💀 Abondeath</h4>
