@@ -54,7 +54,7 @@ Having participated in Datathons, I leverage data analytics alongside secure sof
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ GitLeak Radar <code>v1.4.9</code></h4>
+      <h4>🛡️ GitLeak Radar <code>v1.5.0</code></h4>
       <b>CLI Secret Scanner &amp; GitHub Action</b>
       <p>Zero-telemetry local-first scanner that detects hardcoded API keys, tokens, private keys, and database credentials before they reach version control or CI/CD pipelines.</p>
       <b>Built with</b><br/>
