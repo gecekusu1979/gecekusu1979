@@ -6,7 +6,7 @@
 
 ## About
 
-Data-driven software engineer working across **DevSecOps tooling**, **automotive telemetry**, and **game development**. I bridge low-level hardware interfaces with real-time data architectures and immersive simulations, applying strict systems programming methodologies and applied machine learning where relevant.
+Data-driven software engineer working across **DevSecOps tooling**, **automotive telemetry**, and **game development**. I bridge low-level hardware interfaces with real-time data architectures and immersive simulations, applying strict systems programming methodologies and applied machine learning where relevant..
 
 Having participated in Datathons, I leverage data analytics alongside secure software design to connect mechanical engineering, systems programming, and interactive media.
 
