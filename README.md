@@ -92,6 +92,23 @@ Having participated in Datathons, I leverage data analytics alongside secure sof
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 RepoMind</h4>
+      <b>Client-Side Repository Intelligence Engine</b>
+      <p>Clone-free static analysis platform auditing code architecture, dependency health, and maintainability in seconds with local WebGPU inference.</p>
+      <b>Built with</b><br/>
+      <code>TypeScript</code> <code>WebGPU</code> <code>WebLLM</code> <code>GitHub API</code>
+      <br/><br/>
+      <b>Features</b>
+      <ul>
+        <li>Instant remote parsing via GitHub Tree API &amp; deterministic rule engines</li>
+        <li>Zero external LLM keys: in-browser AI driven directly by WebGPU</li>
+        <li>Privacy-first local execution with no server-side telemetry</li>
+      </ul>
+      <a href="https://github.com/gecekusu1979/RepoMind">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&amp;logo=github&amp;logoColor=white" />
+      </a>
+    </td>
     <td colspan="2" valign="top">
       <h4>💀 Abondeath</h4>
       <b>2D Horde-Survival Game</b>
